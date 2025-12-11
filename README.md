@@ -19,7 +19,7 @@ Front-month IV rises → Calculate J → Assess Gamma Risk → Decide to Short
 2. **Post-event**: Uncertainty resolves, IV "crushes" back to normal levels.
 - Key Assumption: The event is the dominant factor causing the difference between front-month and second-month IV.
 
-### 2.2 Calculate Forward Volatility
+### 2.2 Calculate Forward Volatility and Jump Magnitude
 Assume two expiration dates:
 - $T_1$: Front-month expiration (covers the event)
 - $T_2$: Second-month expiration
@@ -32,7 +32,6 @@ $$
 \sigma_{12} = \sqrt{\frac{\sigma_2^2 T_2 - \sigma_1^2 T_1}{T_2 - T_1}} 
 $$
 
-### 2.4 Implied Jump Magnitude Calculation
 The instantaneous price jump percentage $J$ implied by the event:
 
 $$

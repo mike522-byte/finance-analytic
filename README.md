@@ -5,7 +5,7 @@
 ### 1.1 Core Trading Opportunity
 Sell options before a major event (earnings, central bank decisions, etc.), betting on a sharp drop in implied volatility (IV) post-event (volatility crush), while managing the gamma risk caused by the event.
 
-### 1.2 Strategic Logic Chain
+### 1.2 Logic Chain
 
 Market Expectation → Implied Jump → Risk Pricing → Trading Decision
 

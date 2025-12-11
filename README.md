@@ -19,14 +19,13 @@ Front-month IV rises → Calculate J → Assess Gamma Risk → Decide to Short
 2. **Post-event**: Uncertainty resolves, IV "crushes" back to normal levels.
 - Key Assumption: The event is the dominant factor causing the difference between front-month and second-month IV.
 
-### 2.2 Volatility Term Structure Decomposition
+### 2.2 Calculate Forward Volatility
 Assume two expiration dates:
 - $T_1$: Front-month expiration (covers the event)
 - $T_2$: Second-month expiration
 - $\sigma_1$: Front-month ATM IV
 - $\sigma_2$: Second-month ATM IV
 
-### 2.3 Forward Volatility Calculation
 When $\sigma_1 > \sigma_2$, calculate the forward volatility from $T_1$ to $T_2$:
 
 $$

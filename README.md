@@ -81,4 +81,4 @@ The front-month IV contains an event risk premium of **19.4%** (45% - 25.6%)
 
 ---
 
-**Strategy Core**: By quantifying the market's pricing of event risk (the $J$-value), short the overpriced event volatility premium in a risk-controlled manner, earning Vega profit from the IV crush, while enhancing returns through time decay (Theta) and potential dynamic hedging.
+**Strategy Core**: By quantifying the market's pricing of event risk (the $J$-value), short the overpriced event volatility premium in a risk-controlled manner, earning Vega profit from the IV crush, while enhancing returns through time decay (Theta).

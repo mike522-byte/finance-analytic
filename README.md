@@ -6,7 +6,7 @@ The volatility smile depicts how implied volatility (IV) varies across strike pr
 
 1.  The smile becomes flatter as time to expiration increases. This indicates that markets price higher short-term uncertainty and tail risk, which smooths out over the long term.
 
-2.  The curve is typically **skewed**, with higher IV on the lower strike side, and exhibits **fat tails** (kurtosis).
+2.  The curve is typically **skewed**, with higher IV on the lower strike side, and exhibits **kurtosis**.
     *   **Skewness** reflects greater fear of market crashes than optimism about rallies.
     *   **Kurtosis** signals that the market assigns a higher probability to extreme price moves than assumed in standard models.
 

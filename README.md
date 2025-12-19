@@ -2,6 +2,18 @@
 
 [Interactive Volatility Smile](https://htmlpreview.github.io/?https://raw.githubusercontent.com/mike522-byte/finance-analytic/refs/heads/main/volatility_smile.html)
 
+The volatility smile depicts how implied volatility (IV) varies across strike prices. We can see that
+
+1.  The smile becomes flatter as time to expiration increases. This indicates that markets price higher short-term uncertainty and tail risk, which smooths out over the long term.
+
+2.  The curve is typically **skewed**, with higher IV on the lower strike side, and exhibits **fat tails** (kurtosis).
+    *   **Skewness** reflects greater fear of market crashes than optimism about rallies.
+    *   **Kurtosis** signals that the market assigns a higher probability to extreme price moves than assumed in standard models.
+
+3.  The entire curve is shifted toward lower strikes. This dominant **negative skew** underscores an asymmetric demand for downside protection and the pervasive "crash fear" in equity markets.
+
+In essence, this pattern reveals that real-world markets are driven by **asymmetric risk aversion and fat-tailed return distributions**, deviating significantly from the assumptions of classic pricing models.
+
 # Event trading - Shorting Vega 
 
 ## 1. Strategy Overview

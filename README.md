@@ -12,7 +12,7 @@ The volatility smile depicts how implied volatility (IV) varies across strike pr
 
 3.  The entire curve is shifted toward lower strikes. This dominant **negative skew** underscores an asymmetric demand for downside protection and the pervasive "crash fear" in equity markets.
 
-In essence, this pattern reveals that real-world markets are driven by **asymmetric risk aversion and fat-tailed return distributions**, deviating significantly from the assumptions of classic pricing models.
+In essence, this pattern reveals that real-world markets are driven by **asymmetric risk aversion and fat-tailed return distributions**, deviating significantly from the assumptions of BSM models.
 
 # Event trading - Shorting Vega 
 

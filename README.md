@@ -1,6 +1,6 @@
 # Volatility Smile
 
-[Interactive Volatility Smile](https://htmlpreview.github.io/?https://raw.githubusercontent.com/mike522-byte/finance-analytic/refs/heads/main/volatility_smile.html))
+[Interactive Volatility Smile](https://htmlpreview.github.io/?https://raw.githubusercontent.com/mike522-byte/finance-analytic/refs/heads/main/volatility_smile.html)
 
 # Event trading - Shorting Vega 
 

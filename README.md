@@ -1,6 +1,9 @@
-# A dashboard for analyzing price action for stock and option trading
+# Dashboard for analyzing price action for stock and option trading
 
-[price_action_dashboard.webm](https://github.com/user-attachments/assets/55629770-cc2f-463e-b682-4c7f4f69e21a)
+
+https://github.com/user-attachments/assets/bfcf596f-dc96-4701-9989-e18284c3431a
+
+
 
 # Volatility Smile
 

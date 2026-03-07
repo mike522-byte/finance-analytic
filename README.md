@@ -13,9 +13,20 @@ too lazy browsing from tabs to tabs and decide to grab all numbers needed in one
 ### Federal Reserve M2 supply and growth rate
 <img width="2479" height="1055" alt="image" src="https://github.com/user-attachments/assets/d49b868e-8d07-4931-910f-91ded99efedf" />
 
+## Stock and Option Price
+
+### Time-series candlestick and performance metrics
+<img width="2477" height="690" alt="image" src="https://github.com/user-attachments/assets/d5003ca0-ecf3-4730-8dcb-b692af629b02" />
+
+### Volatility surface of different expires options
+<img width="2460" height="515" alt="image" src="https://github.com/user-attachments/assets/9abe124d-c5b2-4c56-9a47-56edd66ca217" />
+
+### Order flow
+![Uploading image.png…]()
+
+## Polymarket
 
 
-https://github.com/user-attachments/assets/bfcf596f-dc96-4701-9989-e18284c3431a
 
 
 

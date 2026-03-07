@@ -1,6 +1,6 @@
 # Dashboard for US market
 
-too lazy browsing from tabs to tabs and decide to grab all numbers in one application.
+Too lazy browsing from tabs to tabs and decide to grab all numbers in one application. Real-time updates.
 
 ## US macroeconomics
 

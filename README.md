@@ -11,7 +11,7 @@ Too lazy browsing from tabs to tabs and decide to grab all numbers in one applic
 <img width="2463" height="517" alt="image" src="https://github.com/user-attachments/assets/6b86762b-7a74-431b-921c-edaab3ec691a" />
 
 ### Federal Reserve M2 supply and growth rate
-<img width="2479" height="1055" alt="image" src="https://github.com/user-attachments/assets/d49b868e-8d07-4931-910f-91ded99efedf" />
+<img width="2248" height="886" alt="image" src="https://github.com/user-attachments/assets/dbc21e46-f615-410e-be73-51792779e74a" />
 
 ## Stock and Option Price
 

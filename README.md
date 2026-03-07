@@ -1,4 +1,4 @@
-# Dashboard for US market
+<img width="2449" height="1120" alt="image" src="https://github.com/user-attachments/assets/2dfc4b8c-49f5-4206-ba6d-bcf95f9ca2d1" /># Dashboard for US market
 
 too lazy browsing from tabs to tabs and decide to grab all numbers needed in one application.
 
@@ -22,15 +22,20 @@ too lazy browsing from tabs to tabs and decide to grab all numbers needed in one
 <img width="2460" height="515" alt="image" src="https://github.com/user-attachments/assets/9abe124d-c5b2-4c56-9a47-56edd66ca217" />
 
 ### Order flow
-![Uploading image.png…]()
+<img width="2457" height="1122" alt="image" src="https://github.com/user-attachments/assets/7cebc8ee-124b-4bd7-9259-012460f06bef" />
 
 ## Polymarket
 
+### Politics
+<img width="2467" height="1198" alt="image" src="https://github.com/user-attachments/assets/52cc85aa-ee1e-4ab2-870e-dacb447af48c" />
 
+### Wars
+<img width="2486" height="1168" alt="image" src="https://github.com/user-attachments/assets/5eb80b0d-3cf4-4138-9b2d-cd143a593595" />
 
+### Market expectations
+<img width="2473" height="1287" alt="image" src="https://github.com/user-attachments/assets/dfff0019-686d-4b33-8d93-53b266dff422" />
 
-
-# Volatility Smile
+# Volatility Surface
 
 [Interactive Volatility Smile](https://htmlpreview.github.io/?https://raw.githubusercontent.com/mike522-byte/finance-analytic/refs/heads/main/volatility_smile.html)
 
@@ -48,7 +53,7 @@ In essence, this pattern reveals that real-world markets are driven by **asymmet
 
 # Event trading - Shorting Vega 
 
-## 1. Strategy Overview
+## 1. Overview
 
 ### 1.1 Core Trading Opportunity
 Sell options before a major event (earnings, central bank decisions, etc.), betting on a sharp drop in implied volatility (IV) post-event (volatility crush), while managing the gamma risk caused by the event.

@@ -1,4 +1,18 @@
-# Dashboard for analyzing price action for stock and option trading
+# Dashboard for US market
+
+too lazy browsing from tabs to tabs and decide to grab all numbers needed in one application.
+
+## US macroeconomics
+
+### US real gdp growth and US treasury yield curve
+<img width="2461" height="1065" alt="image" src="https://github.com/user-attachments/assets/90e28095-e80d-4e10-a07c-abc4c4502ca5" />
+
+### US corporate bond spread
+<img width="2463" height="517" alt="image" src="https://github.com/user-attachments/assets/6b86762b-7a74-431b-921c-edaab3ec691a" />
+
+### Federal Reserve M2 supply and growth rate
+<img width="2479" height="1055" alt="image" src="https://github.com/user-attachments/assets/d49b868e-8d07-4931-910f-91ded99efedf" />
+
 
 
 https://github.com/user-attachments/assets/bfcf596f-dc96-4701-9989-e18284c3431a

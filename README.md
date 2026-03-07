@@ -1,4 +1,4 @@
-<img width="2449" height="1120" alt="image" src="https://github.com/user-attachments/assets/2dfc4b8c-49f5-4206-ba6d-bcf95f9ca2d1" /># Dashboard for US market
+Dashboard for US market
 
 too lazy browsing from tabs to tabs and decide to grab all numbers needed in one application.
 

@@ -4,14 +4,26 @@ Save you work browsing from tabs to tabs and fetch all numbers in one applicatio
 
 ## US macroeconomics
 
-### US real gdp growth and US treasury yield curve
-<img width="2461" height="1065" alt="image" src="https://github.com/user-attachments/assets/90e28095-e80d-4e10-a07c-abc4c4502ca5" />
+### US Real GDP growth 
+<img width="2098" height="736" alt="image" src="https://github.com/user-attachments/assets/5a567d60-6d79-4bb9-b758-78e7c4c5f542" />
 
-### US corporate bond spread
+### US CPI & PPI growth
+<img width="2450" height="1008" alt="image" src="https://github.com/user-attachments/assets/862fd3b3-b36b-4579-aade-6206216a49fb" />
+
+### Federal Reserve M2 Supply and growth
+<img width="2447" height="1116" alt="image" src="https://github.com/user-attachments/assets/2cbe5cb9-804a-4e18-8808-2ef15cddcbe6" />
+
+### Federal Reserve Balance Sheet and growth
+<img width="2437" height="1110" alt="image" src="https://github.com/user-attachments/assets/ca4de103-2e0e-423c-8dec-94134518a64c" />
+
+### US Treasury Yield Curve
+<img width="2107" height="548" alt="image" src="https://github.com/user-attachments/assets/60f78235-9f4c-4fad-b838-46785af07184" />
+
+### US Corporate Bond Spread
 <img width="2463" height="517" alt="image" src="https://github.com/user-attachments/assets/6b86762b-7a74-431b-921c-edaab3ec691a" />
 
-### Federal Reserve M2 supply and growth rate
-<img width="2248" height="886" alt="image" src="https://github.com/user-attachments/assets/dbc21e46-f615-410e-be73-51792779e74a" />
+
+
 
 ## Stock and Option Price
 
